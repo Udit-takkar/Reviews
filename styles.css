@@ -1,0 +1,77 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    justify-items: center;
+    text-align: center;
+    background-color: rgba(153, 199, 202, 0.514);
+    font-family: 'Poppins', sans-serif;
+}
+.main-heading{
+    position: relative;
+    top:100px ;
+    letter-spacing: 5px;
+    font-size: 20px;
+}
+.underline{
+    position: relative;
+    width: 10%;
+    top: 85px;
+    left: 620px;
+    border-top: 5px solid rgb(60, 172, 236);
+}
+.review-box{
+    position: relative;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.178);
+    height: 415px;
+    width: 500px;
+    left: 450px;
+    top: 100px;
+    background-color: white;
+}
+.review-box h3{
+     margin: 0;
+    padding: 0;
+    
+}
+.review-box h4{
+   margin: 0;
+    padding: 0;
+    
+}
+#photo{
+  
+    margin-top: 40px;
+    width: 100px;
+    height: 100px;
+}
+#review{
+    position: relative;
+    left:80px ;
+    width: 350px;
+}
+.button{
+    background-color: white;
+    text-decoration: none;
+    cursor: pointer;
+    border: 1px solid rgba(153, 199, 202, 0.514);
+    font-family: 'Kumbh Sans', sans-serif;
+    padding: 5px;
+}
+.next{
+    position: relative;
+    left: 20px;
+}
+.previous{
+    position: relative;
+    right: 20px;
+}
+.surprise{
+    position: relative;
+   top: 10px;
+   color: rgba(9, 41, 145, 0.774);
+   padding: 10px;
+   font-size:20px;
+   border: 1px solid rgba(153, 199, 202, 0.514);
+}
+
